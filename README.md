@@ -26,8 +26,8 @@
 <p align="center">
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/> 
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="512" height="512" alt="css-3" src="https://github.com/user-attachments/assets/0da9994b-7aa3-46d0-9596-2214ba719479" />
-	<img width="512" height="512" alt="html-5" src="https://github.com/user-attachments/assets/604f2abe-2096-4683-9a1e-afc15e06a2fa" />
+	<img width="10%" height="512" alt="css-3" src="https://github.com/user-attachments/assets/0da9994b-7aa3-46d0-9596-2214ba719479" />
+	<img width="10%" height="512" alt="html-5" src="https://github.com/user-attachments/assets/604f2abe-2096-4683-9a1e-afc15e06a2fa" />
 </p>
 
 
